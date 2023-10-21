@@ -1,2 +1,2 @@
 # Taiwan-MRT-Thesis
-Code for thesis project
+Code for thesis paper and associated deliverables
