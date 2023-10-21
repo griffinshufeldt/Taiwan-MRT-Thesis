@@ -1,0 +1,59 @@
+\documentclass[12pt, reqno]{amsart}
+\usepackage{amsmath, amsthm, amscd, amsfonts, amssymb, graphicx, color}
+\usepackage[bookmarksnumbered, colorlinks, plainpages]{hyperref}
+
+\textheight 22.5truecm \textwidth 14.5truecm
+\setlength{\oddsidemargin}{0.35in}\setlength{\evensidemargin}{0.35in}
+
+\setlength{\topmargin}{-.5cm}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{summary}[theorem]{Summary}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{problem}[theorem]{Problem}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\numberwithin{equation}{section}
+
+\begin{document}
+\setcounter{page}{1}
+
+\title{High Speed Rail Literature Review As of September 29, 2023}
+
+\author[Griffin Shufeldt]
+\section{\textit{High Speed Rail Academic Literature As of September 29, 2023}\\}
+
+\begin{enumerate}
+\item Kim, Hyojin, and Selima Sultana. “The Impacts of High-Speed Rail Extensions on Accessibility and Spatial Equity Changes in South Korea from 2004 to 2018.” Journal of Transport Geography 45 (May 2015): 48–61. https://doi.org/10.1016/j.jtrangeo.2015.04.007. \\ 
+    
+    \vspace{.5em} Found that the High Speed Rail system in South Korea worsened preexisting inequities across provinces. Coauthors mostly attributed this to the specific route of the rail system, which mainly benefited the wealthy Seoul area. Projected that the rail extensions in 2018 (after this paper was published) would ameliorate inequalities as it connected further out provinces.\\
+
+\item Martínez Sánchez-Mateos, Héctor S., and Moshe Givoni. “The Accessibility Impact of a New High-Speed Rail Line in the UK – a Preliminary Analysis of Winners and Losers.” Journal of Transport Geography 25 (November 2012): 105–14. https://doi.org/10.1016/j.jtrangeo.2011.09.004.\\
+    
+    \vspace{.5em} Mainly a theoretical paper that estimated the benefits to certain areas if the UK were to build a HSR system. An interesting application of this would be to utilize the model to estimate which provinces would be most benefitted in Taiwan, and compare to what is empirically borne out.\\
+
+\item Chen, Zhenhua, and Kingsley E. Haynes. “Impact of High-Speed Rail on Regional Economic Disparity in China.” Journal of Transport Geography 65 (December 2017): 80–91. https://doi.org/10.1016/j.jtrangeo.2017.08.003.\\
+    
+    \vspace{.5em} Used Gini and Theil index to measure intra and inter levels of inequality across China following their completetion of their HSR. Found an associated decrease in inequality in these measures upon the completion of specified lines in China. An obvious and important outcome to look at in Taiwan. \\
+
+\item Chong, Zhaohui, Zhenhua Chen, and Chenglin Qin. “Estimating the Economic Benefits of High-Speed Rail in China: A New Perspective from the Connectivity Improvement.” Journal of Transport and Land Use 12, no. 1 (2019): 287–302.\\
+    
+    \vspace{.5em} Finds positive effects on urban growth from China's HSR. Includes an interesting spatial economics model to potentially play with.
+
+\end{enumerate}
+
+\end{document}
+
+%------------------------------------------------------------------------------
+% End of journal.tex
+%------------------------------------------------------------------------------
