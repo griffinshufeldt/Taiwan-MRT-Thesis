@@ -100,7 +100,7 @@ replace num_stations = stations_in_district_2002 if year == 2002
 replace num_stations = stations_in_district_2003 if year == 2003
 replace num_stations = stations_in_district_2004 if year == 2004
 replace num_stations = stations_in_district_2005 if year == 2005
-replace num_stations = stations_in_district_2005 if year == 2005
+replace num_stations = stations_in_district_2006 if year == 2006
 
 
 *Stops at 2006 due to geographical abstraction from districts to cities. Consult Taiwanese gov data and translate
